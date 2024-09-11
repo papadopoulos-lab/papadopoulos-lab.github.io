@@ -4,34 +4,30 @@ project:
 
 resources:
   - "favicon.png"
-  - "CNAME"
+  # - "CNAME"
   - "resources/*"
   - "articles/*"
   - "presentations/*"
 
 website:
-  title: "Richard Aubrey White"
-  body-header: <script data-goatcounter="https://rwhiteno.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  title: "Papadopoulos Lab"
+  # body-header: <script data-goatcounter="https://rwhiteno.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   favicon: favicon.png
   navbar:
     right:
       - text: "Home"
         href: index.html
-      - cv.qmd
       - publications.qmd
       - presentations.qmd
-      - recipes.qmd
       - blog.qmd
       - icon: github
-        href: https://github.com/raubreywhite
-      - icon: twitter-x
-        href: https://www.x.com/raubreywhite
-format:
-  html:
-    theme: flatly
-    # css: styles.css
-    title-block-banner: "#b8e2f2"
-    title-block-banner-color: "#000000"
+        href: https://github.com/papadopoulos-lab
+# format:
+#   html:
+#     theme: flatly
+#     # css: styles.css
+#     title-block-banner: "#b8e2f2"
+#     title-block-banner-color: "#000000"
 
 
 

@@ -1,45 +1,23 @@
 ---
-title: "Richard Aubrey White"
-image: resources/richard.jpeg
+title: "Papadopoulos Lab"
+image: resources/fotis.jpeg
 about:
   id: hero-heading
   template: solana
   links:
     - icon: github
-      href: https://github.com/raubreywhite
-    - icon: twitter-x
-      href: https://x.com/raubreywhite
-    - icon: linkedin
-      href: https://no.linkedin.com/in/richard-white4
+      href: https://github.com/papadopoulos-lab
 title-block-banner: false
 ---
 
 :::{#hero-heading}
 
-Richard is an applied infectious diseases statistician based in Oslo, Norway. He is currently employed as the project manager for the Norwegian Syndromic Surveillance System ([NorSySS](https://www.github.com/norsyss/)), a surveillance system of infectious diseases based on consultations with general practitioners and out-of-hours primary care facilities, based in the Norwegian Institute of Public Health (Folkehelseinstituttet). 
+The Papadopoulos lab at Uppsala University focuses on gender dysphoria, transgender health, and perinatal mental health. The lab investigates a wide range of topics related to psychiatric disorders, including the impact of hormone treatments on individuals with gender dysphoria, as seen in their studies on idiopathic intracranial hypertension among those receiving hormone therapies.
 
-His international field experience includes performing needs assessments in [Sri Lanka](articles/2022-wickremesekera.pdf) and developing/managing surveillance systems for Ebola in Sierra Leone, acute watery diarrhea/cholera in Mozambique, and maternal health in [Palestine](articles/2021-isbeih.pdf).
+Another major focus of the lab is perinatal health, where they utilize innovative digital tools such as the "Mom2B" project to analyze perinatal outcomes using smartphone-based phenotyping and machine learning techniques. Additionally, the lab conducts research on postpartum depression and the relationship between environmental factors, such as sunlight and seasonal changes, and their effects on mental health.
 
 :::
 
 ## Contact
 
-hello@rwhite.no
-
-## Education / Statistics
-
-**Harvard University, USA**
-
-2011--2012 / Ph.D. in Biostatistics
-
-2009--2011 / M.A. in Biostatistics (Frank Knox fellowship)
-
-**University of Wollongong, Australia**
-
-2005--2009 / B. Advanced Mathematics in Applied Statistics (First Class Honours) 
-
-## Education / Humanities
-
-**University of Bergen, Norway**
-
-2022--2023 / One year program (Årsstudium) in Nordic languages and literature
+fotis.papadopoulos@neuro.uu.se
